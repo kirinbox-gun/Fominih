@@ -1,0 +1,2 @@
+/home/gunner/Fominih/argscript.sh
+/home/gunner/Fominih/ext_script.sh
